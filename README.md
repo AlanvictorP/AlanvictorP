@@ -19,6 +19,5 @@
  <br>
  <h2>Outras Linguagens:</h2>
  <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
- <img align="center" alt="RUBY" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
 
 </div> <br>
